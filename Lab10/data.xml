@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmlResponse xml:lang="eng">
+    <Monitor>
+        <sensorList>
+            <sensor>
+                <name>Sensor 1</name>
+                <value>NOK</value>
+                <status>0</status>
+            </sensor>
+            <sensor>
+                <name>Sensor 2</name>
+                <value>OK</value>
+                <status>1</status>
+            </sensor>
+            <sensor>
+                <name>Sensor 3</name>
+                <value>OK</value>
+                <status>1</status>
+            </sensor>
+            <sensor>
+                <name>Sensor 4</name>
+                <value>OK</value>
+                <status>1</status>
+            </sensor>
+            <sensor>
+                <name>Sensor 5</name>
+                <value>NOK</value>
+                <status>0</status>
+            </sensor>
+            <sensor>
+                <name>Sensor 6</name>
+                <value>OK</value>
+                <status>1</status>
+            </sensor>
+            <sensor>
+                <name>Sensor 7</name>
+                <value>NOK</value>
+                <status>0</status>
+            </sensor>
+            <sensor>
+                <name>Sensor 8</name>
+                <value>OK</value>
+                <status>1</status>
+            </sensor>
+            <sensor>
+                <name>Sensor 9</name>
+                <value>OK</value>
+                <status>1</status>
+            </sensor>
+            <sensor>
+                <name>Sensor 10</name>
+                <value>NOK</value>
+                <status>0</status>
+            </sensor>
+        </sensorList>
+    </Monitor>
+</xmlResponse>

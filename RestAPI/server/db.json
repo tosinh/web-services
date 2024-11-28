@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "Kiến thức cơ bản, tổng quan dành cho người mới bắt đầu",
+        "description": "Kiến thức cơ bản dành cho người mới bắt đầu, không phân biệt bạn theo Front-end hay Back-end hay DevOps"
+    },
+    {
+        "id": 2,
+        "name": "Xây dựng web với NodeJS và ExpressJS",
+        "description": "Xây dựng web trong thực tế với NodeJS và ExpressJS với cách chia sẻ chi tiết, tận tâm, dễ hiểu và chất giọng giàu sức sốn của người chia sẻ"
+    }
+]

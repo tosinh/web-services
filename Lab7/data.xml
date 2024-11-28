@@ -1,0 +1,8 @@
+<SinhVien>
+    <Ten>Teo</Ten>
+    <Tuoi>20</Tuoi>
+    <Diem>
+        <Toan HeSo="1">7</Toan>
+        <LapTrinh HeSo="2">8</LapTrinh>
+    </Diem>
+</SinhVien>
