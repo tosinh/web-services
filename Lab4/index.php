@@ -19,8 +19,8 @@ session_start();
         unset($_SESSION["valid"]);
 
         $users = array(
-            "admin" => array("password" => "admin", "fullname" => "Quản trị viên", "score" => 7.5),
-            "thanglq" => array("password" => "thanglq", "fullname" => "La Quốc Thắng", "score" => 10)
+            "admin" => array("password" => "admin", "fullname" => "Quản trị viên", "score" => 10),
+            "sinh" => array("password" => "sinh", "fullname" => "Tô Văn Sinh", "score" => 10)
         ); //Mảng kết hợp
 
         if (isset($_POST["login"]) && !empty($_POST["username"]) && !empty($_POST["password"])) {

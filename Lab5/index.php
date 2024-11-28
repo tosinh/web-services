@@ -20,7 +20,7 @@ session_start();
 
         $users = array(
             "a@dlu.edu.vn" => array("password" => "a", "fullname" => "Nguyễn Văn A", "score" => 7.5),
-            "b@dlu.edu.vn" => array("password" => "b", "fullname" => "Trần An Bình", "score" => 10)
+            "b@dlu.edu.vn" => array("password" => "b", "fullname" => "Trần Văn B", "score" => 10)
         ); //Mảng kết hợp
 
         if (isset($_POST["login"]) && !empty($_POST["email"]) && !empty($_POST["password"])) {
